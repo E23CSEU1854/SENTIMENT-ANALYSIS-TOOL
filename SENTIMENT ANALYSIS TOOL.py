@@ -49,5 +49,5 @@ def main():
         result = analyze_sentiment(text)
         print(result)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
